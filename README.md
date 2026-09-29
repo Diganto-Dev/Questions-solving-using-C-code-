@@ -39,26 +39,6 @@ All problems are solved using the **C programming language**.
 
 Each C file contains a programming problem and its solution.
 
-Example:
-
-```c
-// Question:
-// Write a C program to find the sum of two numbers.
-
-#include <stdio.h>
-
-int main() {
-    int a, b;
-
-    printf("Enter two numbers: ");
-    scanf("%d %d", &a, &b);
-
-    printf("Sum = %d\n", a + b);
-
-    return 0;
-}
-```
-
 ## ▶️ How to Run
 
 Make sure you have a C compiler such as **GCC** installed.
