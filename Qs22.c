@@ -16,7 +16,9 @@ int main() {
                 (i == 6 && j == 4)) {
                 
                 printf("* ");
+
             } else {
+                
                 printf("  ");
             }
         }
