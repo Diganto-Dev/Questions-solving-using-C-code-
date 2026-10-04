@@ -28,7 +28,7 @@ int main(){
             printf(" ");
         }
 
-        // 1st part
+        // 2st part
         for(int j = 1 ; j <= 2*i-1 ; j++){
            if( j == 1 || j == 2*i-1){
             printf("*");
