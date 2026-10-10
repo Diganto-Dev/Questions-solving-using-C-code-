@@ -3,12 +3,12 @@
 
 int main() {
     int n = 1223451;
-    int digit;
+    int lastdigit;
     int freq[10] = {0};
 
     while (n > 0) {
-        digit = n % 10;
-        freq[digit]++;
+        lastdigit = n % 10;
+        freq[lastdigit]++;
         n = n / 10;
     }
 
