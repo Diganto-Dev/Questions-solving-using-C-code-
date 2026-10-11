@@ -19,7 +19,6 @@ int main() {
     char word[] = "diganto";
 
     reverse(word, strlen(word));
-
     printf("Reverse = %s\n", word);
 
     return 0;
