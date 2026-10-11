@@ -1,5 +1,6 @@
 // Binary Search
 // Array should me ordered 
+
 #include <stdio.h>
 
 int main(){
