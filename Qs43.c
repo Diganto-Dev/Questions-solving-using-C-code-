@@ -1,4 +1,4 @@
-// Sum of subarrays 
+// Sum of subarrays --> (Brute Force)
 #include <stdio.h>
 
 void SumOfSubarray(int *arr, int n){
