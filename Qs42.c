@@ -1,4 +1,5 @@
-// Print Subarrays
+// Print Subarrays 
+//  using (Brute Force)
 #include <stdio.h>
 
 int main(){
