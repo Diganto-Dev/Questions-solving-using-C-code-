@@ -1,5 +1,5 @@
 // MaxSum of subarrays  (Kadane's Algorithm (DP)) 
-// Time Complexity is  O(N^2)
+// Time Complexity is  O(n)
 #include <stdio.h>
 #include <limits.h>
 
