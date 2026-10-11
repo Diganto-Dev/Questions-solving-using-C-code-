@@ -1,4 +1,4 @@
-// MaxSum of subarrays 
+// MaxSum of subarrays using (Brute Force)
 #include <stdio.h>
 
 int max(int a , int b){
