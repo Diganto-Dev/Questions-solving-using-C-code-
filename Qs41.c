@@ -1,5 +1,5 @@
 // Binary Search
-// Array should me ordered 
+// Array should me ordered array
 
 #include <stdio.h>
 
