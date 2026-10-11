@@ -13,6 +13,7 @@ int max(int a , int b){
 void SumOfSubarray(int *arr, int n){
 
     int maxSum = 0;
+    
     for(int start = 0 ; start < n ; start++){
             int currentSum = 0;
         for(int end = start ; end < n; end++){
@@ -32,6 +33,6 @@ int main(){
 
     SumOfSubarray(arr , n);
 
-    
+
     return 0;
 }
