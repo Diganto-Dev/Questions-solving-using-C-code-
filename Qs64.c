@@ -13,6 +13,7 @@ int isSorted(int arr[], int n)
     return isSorted(arr, n - 1);
 }
 
+
 int main()
 {
     int arr[] = {1, 2, 3, 4, 5};
